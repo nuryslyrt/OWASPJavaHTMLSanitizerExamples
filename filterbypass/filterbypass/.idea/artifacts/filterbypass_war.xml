@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="filterbypass:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="filterbypass.war">
+      <element id="artifact" artifact-name="filterbypass:war exploded" />
+    </root>
+  </artifact>
+</component>
